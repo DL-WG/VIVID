@@ -4,7 +4,7 @@
 ## About the project
 We have developed a new method for variational data assimilation called VIVID, which incorporates a deep learning inverse operator into the assimilation objective function. This technique utilizes Voronoi-tessellation and convolutional neural networks to effectively handle sparse, unstructured, and time-varying sensor data. By incorporating the DL inverse operator, VIVID establishes a direct connection between observation and state space, which minimizes the number of steps required for data assimilation. The numerical experiments are made with a 2D shallow code provided in this reporsitory. 
 
-![flowchart](image/flowchart_DA.png)
+![flowchart](./image/flowchart_DA.png)
 
 ## Getting Started
 
