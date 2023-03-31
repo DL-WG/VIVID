@@ -45,3 +45,8 @@ The traning of VCNN is presented in VCNN_training.py
 
 ## data and trained model
 We also provided trained VCNN model and the test data in case you want to only perform VIVID without retraining VCNN
+
+
+##performance
+We show the proposed VIVID can significantly outperform conventional DA and DL-based VCNN
+![examples](https://user-images.githubusercontent.com/28357071/229174143-f2678fd9-16df-458c-a45d-a1fe5f682668.PNG)
