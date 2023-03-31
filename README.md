@@ -41,7 +41,7 @@ The symbolic calculation of the posterior variance in a simple scalar case using
 ## VCNN preprocessing and training
 The preprocessing of the observations through Voronoi tessellation is presented in voronoi_preprocessing.py
 
-The traning of VCNN is presented in VCNN_training.py
+The traning of VCNN (resp. VCNN-POD) is presented in VCNN_training.py (resp. VCNN-POD.py)
 
 ## data and trained model
 We also provided trained VCNN model and the test data in case you want to only perform VIVID without retraining VCNN
